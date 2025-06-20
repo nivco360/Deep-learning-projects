@@ -46,10 +46,6 @@ The model integrates textual and musical input through the following components:
   - LayerNorm
 - Softmax output layer (predicts word probability distribution)
 
-### 📊 Architecture Diagram
-
-
-
 ---
 
 ## 🔧 Training Details
