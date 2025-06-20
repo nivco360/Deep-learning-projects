@@ -83,27 +83,4 @@ Loss curves show good convergence for both models:
   - Attention over musical context
   - Filtering unaligned or noisy sequences
 
----
-
-## 📄 How to Run
-
-1. Preprocess MIDI and lyrics:
-
-```bash
-python lyrics_midi_preprocess.py
-```
-
-2. Train the model:
-
-```bash
-python lyrics_rnn_main.py
-```
-
-Model and training code are in `lyrics_rnn_model.py`
-
----
-
-## 📙 Author
-
-Niv Cohen
 
